@@ -1,6 +1,10 @@
 ## Aiáca - Espaço Compasso
 
-Aqui terá uma descrição
+1. Ler mais sobre a Missão e Visão do Espaço Compasso aqui: https://github.com/EspacoCompasso/Visions_and_Manifest
+2. Ler mais sobre a forma como o Espaço Compasso procura a adesão de voluntários aqui: https://github.com/EspacoCompasso/Visions_and_Manifest/discussions/1
+3. Ler mais sobre o regulamento dos voluntários do Espaço Compasso aqui: https://github.com/EspacoCompasso/Estatutos_e_Deveres/discussions/11
+4. Ler mais sobre como funciona a residência no Espaço Compasso aqui: https://github.com/EspacoCompasso/Residence
+5. Ler mais sobre as reuniões semanais e anuais do Espaço Compasso aqui: https://github.com/EspacoCompasso/Meetings
 
 <!--
 
