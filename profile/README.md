@@ -1,6 +1,6 @@
 ## Aiáca - Espaço Compasso
 
-https://github.com/orgs/EspacoCompasso/discussions/17
+Quem Somos: https://github.com/orgs/EspacoCompasso/discussions/17
 
 <!--
 
